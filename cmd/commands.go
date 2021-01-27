@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tecnologer/sudoku/clients/cli/game"
-	"github.com/tecnologer/sudoku/clients/cli/utils"
-	sudoku "github.com/tecnologer/sudoku/src"
+	"github.com/tecnologer/sudoku/clients/sudoku-cli/game"
+	"github.com/tecnologer/sudoku/clients/sudoku-cli/utils"
+	sudoku "github.com/tecnologer/sudoku/sudoku-lib/src"
 )
 
 var (

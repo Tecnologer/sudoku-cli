@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tecnologer/sudoku/clients/cli/cmd"
+	"github.com/tecnologer/sudoku/clients/sudoku-cli/cmd"
 )
 
 var (
